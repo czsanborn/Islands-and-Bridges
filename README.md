@@ -12,3 +12,4 @@ To run the project, run the term-project.py file in an editor. The program uses 
 Shortcuts:
 There aren’t really any shortcuts, except the “See Solution” button which allows you to skip to the solution of a puzzle and the “Get Hint” button which partially solves the puzzle.
 
+https://www.youtube.com/watch?v=Kx_wXoCN_4E
